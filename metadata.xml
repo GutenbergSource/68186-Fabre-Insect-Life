@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>Insect Life: Souvenirs of a Naturalist</dc:title>
+      <dc:creator>Jean-Henri-Casimir Fabre (1823–1915)</dc:creator>
+      <dc:creator>F. Merrifield</dc:creator>
+      <dc:creator>Margaret Roberts (1833–1919)</dc:creator>
+      <dc:creator>David Sharp (1840–1922)</dc:creator>
+      <dc:creator>M. Prendergast Parker</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2022-05-27</dc:publisher>
+      <dc:date>2022-05-27</dc:date>
+      <dc:rights>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.
+This eBook is produced by the Online Distributed Proofreading Team at www.pgdp.net.
+Scans of this book are available from the Internet Archive (copy 1).
+</dc:rights>
+      <dc:identifier>pg:68186</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
